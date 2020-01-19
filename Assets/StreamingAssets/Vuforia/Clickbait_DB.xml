@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RedbullBox" size="4.000000 3.516315" />
+    <ImageTarget name="Vivident" size="4.000000 6.169491" />
+    <ImageTarget name="vuf" size="4.000000 4.000000" />
+  </Tracking>
+</QCARConfig>
